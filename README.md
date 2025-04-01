@@ -12,6 +12,11 @@
 ## Visualització 2: Arc Diagram
 <br>
 
+### 📊 View the SVG Visualization Here:
+
+[![Exportacions Armament Militar](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_In.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_In.svg)
+
+
 [Open SVG](https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_In.svg)
 
 <img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_Out.svg" alt="Exportacions Armament Militar" width="1600"/>  
