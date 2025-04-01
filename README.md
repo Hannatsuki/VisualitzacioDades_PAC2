@@ -18,7 +18,7 @@ Citació: Gastner MT, Seguy V, More P. Fast low-based algorithm for creating den
 <br>
 
 
-[![Exportacions Armament Militar](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_Out.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_Out.svg)
+[![Exportacions Armament Militar](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_Out_v2.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_Out_v2.svg)
 <br>
 
 ## Visualització 3: Connected Scatterplot
