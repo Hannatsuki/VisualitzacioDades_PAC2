@@ -1,5 +1,5 @@
 # Visualització de Dades PAC 2
-Autor: Alba Garcia Garcia
+Autor: Alba Garcia Garcia  
 Màster de Ciència de Dades de la UOC
 
 ## Visualització 1: Cartogram 
