@@ -1,7 +1,7 @@
 # Visualitzacio de Dades PAC 2
 
 ## Visualització 2: Cartogram
-[Enllaç al Cartograma](https://hannatsuki.github.io/VisualitzacioDades_PAC2/Cartogram.html)
+[Enllaç al Cartograma](https://go-cart.io/cartogram/key/1743493342005YNbCb9Uf24fZeFrjbzL)
 
 
 ## Visualització 2: Arc Diagram
