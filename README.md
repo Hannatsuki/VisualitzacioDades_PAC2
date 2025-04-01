@@ -19,5 +19,4 @@
 ## Visualització 3: Connected Scatterplot
 <br>
 
-<img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PIBAtur.svg" alt="PIB Atur" width="1600"/>
-[![Exportacions Armament Militar](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PIBAtur.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/PIBAtur.svg)
+[![PIB Atur](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PIBAtur.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/PIBAtur.svg)
