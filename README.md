@@ -13,7 +13,7 @@
 <br>
 
 
-[![Exportacions Armament Militar](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_In.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_In.svg)
+[![Exportacions Armament Militar](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_Out.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_Out.svg)
 <br>
 
 ## Visualització 3: Connected Scatterplot
