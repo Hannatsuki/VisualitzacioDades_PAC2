@@ -12,17 +12,12 @@
 ## Visualització 2: Arc Diagram
 <br>
 
-### 📊 View the SVG Visualization Here:
 
 [![Exportacions Armament Militar](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_In.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_In.svg)
-
-
-[Open SVG](https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_In.svg)
-
-<img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_Out.svg" alt="Exportacions Armament Militar" width="1600"/>  
 <br>
 
 ## Visualització 3: Connected Scatterplot
 <br>
 
 <img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PIBAtur.svg" alt="PIB Atur" width="1600"/>
+[![Exportacions Armament Militar](https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PIBAtur.svg)](https://hannatsuki.github.io/VisualitzacioDades_PAC2/PIBAtur.svg)
