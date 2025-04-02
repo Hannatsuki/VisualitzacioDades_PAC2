@@ -15,6 +15,7 @@ Citació: Gastner MT, Seguy V, More P. Fast low-based algorithm for creating den
 <br>
 
 ## Visualització 2: Arc Diagram
+(Clica a la imatge per veure-la més gran)
 <br>
 
 
@@ -25,6 +26,7 @@ Citació: Gastner MT, Seguy V, More P. Fast low-based algorithm for creating den
 <br>
 
 ## Visualització 3: Connected Scatterplot
+(Clica a la imatge per veure-la més gran)
 <br>
 
 <a href="https://hannatsuki.github.io/VisualitzacioDades_PAC2/PIBAtur.svg" target="_blank">
