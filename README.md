@@ -5,7 +5,7 @@ Màster de Ciència de Dades de la UOC
 ## Visualització 1: Cartogram 
 <br>
 
-[Enllaç al Cartograma](https://go-cart.io/cartogram/key/1743493342005YNbCb9Uf24fZeFrjbzL)  
+<a href="https://go-cart.io/cartogram/key/1743493342005YNbCb9Uf24fZeFrjbzL" target="_blank">Enllaç al Cartograma</a> 
 <br>
 
 <img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PreuCompraEspanya.svg" alt="Preu Compra m2 Espanya" width="1600"/>  
