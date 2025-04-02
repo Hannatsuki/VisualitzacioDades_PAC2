@@ -4,7 +4,7 @@ Màster de Ciència de Dades de la UOC
 <br>
 <br>
 ## Visualització 1: Cartogram 
-<a href="https://go-cart.io/cartogram/key/1743493342005YNbCb9Uf24fZeFrjbzL" target="_blank">Enllaç al Cartograma</a> 
+<a href="https://go-cart.io/cartogram/key/1743612076088wXHJoED4Qvo8oAhAkgH/preview" target="_blank">Enllaç al Cartograma</a> 
 <br>
 ### Preu per m2 de compra de l'habitatge a Espanya al 2024 (per CCAA)
 <img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PreuCompraEspanya.svg" alt="Preu Compra m2 Espanya" width="1600"/>  
