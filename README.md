@@ -7,7 +7,7 @@ Màster de Ciència de Dades de la UOC
 
 <a href="https://go-cart.io/cartogram/key/1743493342005YNbCb9Uf24fZeFrjbzL" target="_blank">Enllaç al Cartograma</a> 
 <br>
-
+### Preu per m2 de compra de l'habitatge a Espanya al 2024 (per CCAA)
 <img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PreuCompraEspanya.svg" alt="Preu Compra m2 Espanya" width="1600"/>  
 <br>
 
@@ -18,7 +18,7 @@ Citació: Gastner MT, Seguy V, More P. Fast low-based algorithm for creating den
 (Clica en la imatge per veure-la més gran)
 <br>
 
-
+### Exportacions d'armament militar entre països al 2024
 <a href="https://hannatsuki.github.io/VisualitzacioDades_PAC2/ExportacionsArmamentMilitar_Out_v2.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/ExportacionsArmamentMilitar_Out_v2.svg" alt="Exportacions Armament Militar" width="1600"/>
 </a>
@@ -29,6 +29,7 @@ Citació: Gastner MT, Seguy V, More P. Fast low-based algorithm for creating den
 (Clica en la imatge per veure-la més gran)
 <br>
 
+### PIB VS Taxa d'Atur a Espanya des del 1996 al 2024
 <a href="https://hannatsuki.github.io/VisualitzacioDades_PAC2/PIBAtur.svg" target="_blank">
     <img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PIBAtur.svg" alt="PIB Atur" width="1600"/>
 </a>
