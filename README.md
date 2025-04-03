@@ -38,5 +38,6 @@ Visualització realitzada amb: https://www.rawgraphs.io
     <img src="https://raw.githubusercontent.com/Hannatsuki/VisualitzacioDades_PAC2/main/PIBAtur.svg" alt="PIB Atur" width="1600"/>
 </a>
 <br>
-Font de les dades: https://datosmacro.expansion.com/pib/espana i https://datosmacro.expansion.com/paro/espana
+Font de les dades: https://datosmacro.expansion.com/pib/espana i https://datosmacro.expansion.com/paro/espana  
+
 Visualització realitzada amb: https://www.rawgraphs.io
